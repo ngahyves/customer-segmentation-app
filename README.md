@@ -47,7 +47,7 @@ Python 3.8 or higher
 Git
 ## 1. Clone the Repository
 Open your terminal and clone this repository:
-git clone https://github.com/ngahyves/Machine_learning_projects.git
+git clone https://github.com/ngahyves/customer-segmentation-app.git
 cd Machine_learning_projects
 ## 2. Create and Activate a Virtual Environment (Recommended)
 It's a best practice to create a virtual environment to manage project-specific dependencies.
