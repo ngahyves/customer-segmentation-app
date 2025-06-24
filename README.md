@@ -1,6 +1,7 @@
+# Customer segment analysis (RFM) usink K-Means
 This project presents the development of an end-to-end machine learning pipeline to segment a customer database based on their purchasing behaviour. Using more than 400,000 transactions, we transform raw data into actionable customer segments, enabling targeted and personalised marketing campaigns.
 The data set is coming for kaggle: https://www.kaggle.com/datasets/vijayuv/onlineretail
-# Dashbord overvew
+# Dashbord overview
 ![image](https://github.com/user-attachments/assets/2a1aa795-d589-42c9-bc35-97016f92a5ce)
 
 # Key Features
